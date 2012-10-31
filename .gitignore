@@ -11,6 +11,12 @@
 # generated files
 bin/
 gen/
+SqliteEntityManager.iml
+ant.properties
+build.xml
+out/
+proguard-project.txt
+project.properties
 
 # Local configuration file (sdk path, etc)
 local.properties
