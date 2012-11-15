@@ -1,4 +1,4 @@
 SqliteEntityManager
 ===================
 
-Android SQLiteOpenHelper simple ORM wrapper
+Android SQLiteOpenHelper simple DAO wrapper
